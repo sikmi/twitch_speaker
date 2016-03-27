@@ -6,7 +6,7 @@
 ## 使い方
 1. LimeChat をインストールし起動する
 2. LimeChat を Twitch チャンネルに接続
-3. LimeChat のログが「/Documents/LimeChat Transcripts/」に置かれていることを確認
+3. LimeChat のログが「~/Documents/LimeChat Transcripts/」に置かれていることを確認
 4. 次のコマンドで、ruby スクリプトを起動
 > $ ruby twitch_speaker.rb "#channel_name"
 5. Twitch チャンネルにてコメントを打ってみる
